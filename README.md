@@ -7,5 +7,7 @@ In my fourth and final year.
 🤖 Interactive Chat Bots  
 🎮 Online Game Backends  
 :shield: Certified in Cybersecurity with (ISC)²
+
+:email: Contact me at tobycsmith18@gmail.com
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kommtoby&repo=snipebot4&theme=radical)](https://github.com/KommToby/SnipeBot4)
