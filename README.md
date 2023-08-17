@@ -1,7 +1,7 @@
 Toby Smith
 ---
-Currently studying Bsc Mathematics & Computer Science at Heriot-Watt University  
-In my fourth and final year.  
+Bsc Mathematics & Computer Science graduate from Heriot-Watt University  
+Working a graduate role at a life insurance firm  
   
 📊 Data Analysis & Statistics  
 🤖 Interactive Chat Bots  
